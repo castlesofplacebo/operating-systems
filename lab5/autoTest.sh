@@ -1,5 +1,6 @@
 #!/bin/bash
 >firstReport.txt
+>plo1.txt
 
 while true; do
 checking=$(top -b -n 1 | grep "mem.bash")
@@ -10,6 +11,7 @@ curDate=$(date +'%X')
 echo "Date: $curDate" >> firstReport.txt
 echo "Info about memory:" >> firstReport.txt
 top -b -n 1 | head -n 5 | tail -n 2 >> firstReport.txt  #get the 4-th and 5-th strings in top
+top -b -n 1 | head -n 5 | tail -n 2 >> plo1.txt
 echo "Ingo about process mem.bash" >> firstReport.txt
 echo "$checking" >> firstReport.txt
 echo "Leader processes" >> firstReport.txt
