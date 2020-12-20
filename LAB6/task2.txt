@@ -1,0 +1,54 @@
+1. ipconfig /all | find "Host Name"
+cd \DESKTOP-9HMQ4IA
+mkdir temp
+net share temp=C:\DESKTOP-9HMQ4IA\temp
+
+2. cd C:\Users\castl\LAB6
+cd. > copy2-2.bat
+echo copy /z C:\Windows\oop.zip \DESKTOP-9HMQ4IA\temp >> copy2-2.bat
+echo timeout /t 10 >> copy2-2.bat
+//using cnverting program to create exe-file
+
+3. schtasks /create /sc minute /tn copy2-2 /tr C:\Users\castl\LAB6\copy2-2.exe
+
+4. taskkill /IM copy2-2.exe
+//SUCCESS: Sent termination signal to the process "copy2-2.exe" with PID 10984.
+
+5. PS C:\DESKTOP-9HMQ4IA\temp> comp \Windows\oop.zip oop.zip
+/*Comparing \Windows\oop.zip and oop.zip...
+Compare error at OFFSET 14300000
+file1 = AB
+file2 = 0
+Compare error at OFFSET 14300001
+file1 = 2D
+file2 = 0
+Compare error at OFFSET 14300002
+file1 = 66
+file2 = 0
+Compare error at OFFSET 14300003
+file1 = C9
+file2 = 0
+Compare error at OFFSET 14300004
+file1 = 38
+file2 = 0
+Compare error at OFFSET 14300005
+file1 = 71
+file2 = 0
+Compare error at OFFSET 14300006
+file1 = 7B
+file2 = 0
+Compare error at OFFSET 14300007
+file1 = D0
+file2 = 0
+Compare error at OFFSET 14300008
+file1 = A4
+file2 = 0
+Compare error at OFFSET 14300009
+file1 = 8C
+file2 = 0
+10 mismatches - ending compare*/
+
+6.  robocopy \Windows \DESKTOP-9HMQ4IA\temp oop.zip /z
+comp \Windows\oop.zip \DESKTOP-9HMQ4IA\temp\oop.zip
+/*Comparing \Windows\oop.zip and \DESKTOP-9HMQ4IA\temp\oop.zip...
+Files compare OK*/

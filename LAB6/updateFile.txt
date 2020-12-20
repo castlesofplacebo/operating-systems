@@ -1,0 +1,146 @@
+Запущены следующие службы Windows:
+
+   Adobe Acrobat Update Service
+   Agent Activation Runtime_f8364
+   Canon Inkjet Printer/Scanner/Fax Extended Survey Program
+   CaptureService_f8364
+   CoreMessaging
+   DHCP-клиент
+   DNS-клиент
+   FileSyncHelper
+   Fortemedia APO Control Service
+   HP Analytics service
+   HP App Helper HSA Service
+   HP CASL Framework Service
+   HP Comm Recovery
+   HP Hotkey UWP Service
+   HP LAN/WLAN/WWAN Switching UWP Service
+   HP MAC Address Manager Service
+   HP Network HSA Service
+   HP System Info HSA Service
+   Intel Bluetooth Service
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Content Protection HECI Service
+   Intel(R) Dynamic Application Loader Host Interface Service
+   Intel(R) Dynamic Tuning service
+   Intel(R) Graphics Command Center Service
+   Intel(R) HD Graphics Control Panel Service
+   Intel(R) Management and Security Application Local Management Service
+   Intel(R) PROSet/Wireless Event Log
+   Intel(R) PROSet/Wireless Registry Service
+   Intel(R) PROSet/Wireless Zero Configuration Service
+   Intel(R) Storage Middleware Service
+   Plug and Play
+   Quality Windows Audio Video Experience
+   Realtek Audio Universal Service
+   Sound Research SECOMN Service
+   SQL Server (SQLEXPRESS)
+   SQL Server CEIP service (SQLEXPRESS)
+   SQL Server, службы синхронизации контроля версий
+   SynTPEnhService
+   SysMain
+   Wacom Professional Service
+   Windows Audio
+   Windows Search
+   Автонастройка WWAN
+   Биометрическая служба Windows
+   Брандмауэр Защитника Windows
+   Брокер времени
+   Брокер мониторинга среды выполнения System Guard
+   Брокер системных событий
+   Брокер фонового обнаружения DevQuery
+   Вспомогательная служба IP
+   Диспетчер локальных сеансов
+   Диспетчер платежей и NFC/защищенных элементов
+   Диспетчер подключений Windows
+   Диспетчер подключений удаленного доступа
+   Диспетчер пользователей
+   Диспетчер учетных веб-записей
+   Диспетчер учетных данных
+   Диспетчер учетных записей безопасности
+   Журнал событий Windows
+   Изоляция ключей CNG
+   Инструментарий управления Windows
+   Использование данных
+   Клиент отслеживания изменившихся связей
+   Контейнер службы Microsoft Passport
+   Модуль запуска процессов DCOM-сервера
+   Модуль поддержки NetBIOS через TCP/IP
+   Обнаружение SSDP
+   Определение оборудования оболочки
+   Оптимизация доставки
+   Питание
+   Планировщик заданий
+   Пользовательская служба push-уведомлений Windows_f8364
+   Пользовательская служба UDK_f8364
+   Пользовательская служба буфера обмена_f8364
+   Помощник по входу в учетную запись Майкрософт
+   Посредник подключений к сети
+   Программа архивации данных
+   Публикация ресурсов обнаружения функции
+   Рабочая станция
+   Сведения о приложении
+   Сервер
+   Синхронизация узла_f8364
+   Система событий COM+
+   Служба "Безопасность Windows"
+   Служба AVCTP
+   Служба Microsoft Passport
+   Служба SSTP
+   Служба Windows License Manager
+   Служба автоматического обнаружения веб-прокси WinHTTP
+   Служба автонастройки WLAN
+   Служба антивирусной программы Microsoft Defender
+   Служба базовой фильтрации
+   Служба географического положения
+   Служба диспетчера доступа к возможностям
+   Служба доступа к данным пользователя_f8364
+   Служба загрузки изображений Windows (WIA)
+   Служба звукового шлюза Bluetooth
+   Служба интерфейса сохранения сети
+   Служба инфраструктуры фоновых задач
+   Служба контактных данных_f8364
+   Служба кэша шрифтов Windows
+   Служба оркестратора обновлений
+   Служба платформы подключенных устройств
+   Служба поддержки Bluetooth
+   Служба поддержки пользователей Bluetooth_f8364
+   Служба политики диагностики
+   Служба политики отображения
+   Служба пользователя платформы подключенных устройств_f8364
+   Служба помощника по совместимости программ
+   Служба проверки подлинности DigitalPersona
+   Служба проверки сети антивирусной программы Microsoft Defender
+   Служба профилей пользователей
+   Служба развертывания AppX (AppXSVC)
+   Служба репозитория состояний
+   Служба сведений о подключенных сетях
+   Служба сенсорной клавиатуры и панели рукописного ввода
+   Служба системы push-уведомлений Windows
+   Служба совместного доступа к данным
+   Служба сопоставления устройств
+   Служба списка сетей
+   Служба уведомления о системных событиях
+   Служба улучшения отображения
+   Служба управления радио
+   Служба установки Microsoft Store
+   Служба хранения данных пользователя_f8364
+   Служба хранилища
+   Служба шифрования дисков BitLocker
+   Службы криптографии
+   Сопоставитель конечных точек RPC
+   Средство построения конечных точек Windows Audio
+   Телефонная связь
+   Темы
+   Удаленный вызов процедур (RPC)
+   Узел системы диагностики
+   Узел службы диагностики
+   Управление приложениями
+   Фоновая интеллектуальная служба передачи (BITS)
+   Функциональные возможности для подключенных пользователей и телеметрия
+   Хост поставщика функции обнаружения
+   Центр обеспечения безопасности
+   Шифрованная файловая система (EFS)
+
+Команда выполнена успешно.
+

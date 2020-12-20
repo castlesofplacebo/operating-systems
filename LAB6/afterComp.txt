@@ -1,0 +1,10 @@
+Сравнение файлов C:\USERS\CASTL\LAB6\startedServices.txt и C:\USERS\CASTL\LAB6\UPDATEFILE.TXT
+***** C:\USERS\CASTL\LAB6\startedServices.txt
+   53:     Диспетчер локальных сеансов
+   54:     Диспетчер печати
+   55:     Диспетчер платежей и NFC/защищенных элементов
+***** C:\USERS\CASTL\LAB6\UPDATEFILE.TXT
+   53:     Диспетчер локальных сеансов
+   54:     Диспетчер платежей и NFC/защищенных элементов
+*****
+

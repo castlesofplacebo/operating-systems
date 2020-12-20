@@ -1,0 +1,15 @@
+1. chcp 65001 //UTF-8
+mkdir LAB6
+systeminfo | findstr /r /i /c:"^OS Version:" > osVersion.txt
+systeminfo | find "Memory" > memory.txt
+wmic logicaldisk list brief > disk.txt
+
+2. mkdir TEST
+copy disk.txt TEST
+copy memory.txt TEST
+copy osVersion.txt TEST
+cd TEST
+
+3. copy memory.txt+disk.txt+osVersion.txt allFiles.txt
+
+4. del disk.txt memory.txt osVersion.txt
